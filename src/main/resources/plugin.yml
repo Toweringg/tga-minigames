@@ -1,0 +1,8 @@
+name: TGAMinigames
+version: '${project.version}'
+main: com.towering.TGAMinigames
+api-version: 1.16
+authors: [ Towering ]
+description: I love Officiated
+commands:
+  music:
